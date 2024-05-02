@@ -1,4 +1,4 @@
-# Vehicl CO2 Emissions Research
+# Vehicle CO2 Emissions Research
 
 The goal of this project is to analyze the "Vehicle Attributes and Emissions Dataset" to gain insights into vehicle characteristics, fuel efficiency, and CO2 emissions for vehicles manufactured in the year 2000. By examining factors such as engine size, cylinder count, transmission type, and fuel type.
 
