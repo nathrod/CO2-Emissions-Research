@@ -5,7 +5,7 @@ The goal of this project is to analyze the "Vehicle Attributes and Emissions Dat
 This project was created as part of the Data Analytics Essentials course administered by CISCO.
 
 <div align="center">
-  <img src=""/>
+  <img width="400" src="https://github.com/nathrod/CO2-Emissions-Research/blob/main/img/DataAnalysisProcess.png"/>
 </div>
 
 ## 🚀 Starting/Começando
